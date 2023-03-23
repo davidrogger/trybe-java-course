@@ -77,3 +77,12 @@ Aguarde a conclusão da instalação e a solicitação de reinicio do eclipse. A
 # Integrando o Git ao Eclipse
 
 Seguindo os mesmos passos anteriores buscando por EGit.
+
+# Nota Adicional durante a execução do Eclipse
+
+Por estar usando o WSL2 foi apontado um erro com relação ao swt gtk 4, realizando a instalação os erros pararam
+
+```
+sudo apt update
+sudo apt install libswt-gtk-4-jni
+```
