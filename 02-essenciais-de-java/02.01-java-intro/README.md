@@ -25,3 +25,13 @@ E verifique a versão do compilador do java
 ```
 javac -version
 ```
+
+# Removendo a instalação do java
+
+Usando o comando:
+```
+sudo apt remove openjdk-11*
+```
+
+Como são instalados outros modulos juntamente com o jdk, é necessário usar o coringa no final do remove, para realizar a remoção de todas instalações relacionadas ao opendk-11.
+
