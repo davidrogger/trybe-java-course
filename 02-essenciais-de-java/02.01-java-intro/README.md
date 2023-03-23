@@ -67,3 +67,9 @@ chmod a+x ~/.local/share/applications/Eclipse.desktop
 
 Ao buscar por eclise na área de busca do ubuntu, o eclipse ja será encontrado.
 
+# Integrando o Docker ao Eclise
+
+É necessário baixar um plugin, acessando a parte de "help" e "Eclipse Marketplace".
+Deve procurar por `Jboss-tools`.
+
+Aguarde a conclusão da instalação e a solicitação de reinicio do eclipse. Acessando o open perspective no canto superior direito, acessando Docker tooling, demonstra o sucesso na integração com docker.
