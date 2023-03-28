@@ -154,3 +154,8 @@ Sua plataforma é formada por um grande conjunto de componentes tecnológicos, c
 
 JVM é uma máquina virtual para executar programas escritos em Java. O compilador do Java (JAVAC) transforma o código que escrevemos em ByteCode, que é um código específico que será interpretado pela JVM e, por isso, java é portátil, dado que cada sistema operacional e cada hardware precisa somente instalar sua JVM específica, e ela se encarrega de traduzir o Bytecode para a linguagem de máquina.
 Por causa do JVM o código só complica o programa uma vez, e JVM se encarrega de fazer com que ele execute nos mais diversos sistemas operacionais.
+
+# Java SE
+
+Java Platform Standard Edition, é uma plataforma de desenvolvimento de programas Java. Usado para projetos menores de desktop ou Web. Possui o ambiente necessário para o desenvolvimento e execução de aplicações Java, o que inclui máquina Virtual Java, compilador, bibliotecas e outras ferramentas utilitárias.
+
