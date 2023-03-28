@@ -119,3 +119,12 @@ public class HelloWorld {
 
 }
 ```
+
+# História Java
+
+Na déca de 80, maioria dos programas era escrito em C/C++, e muitas vezes, quando iam executar essas aplicações em computadores com processadores diferentes, era necessário alterar parte do código ou até mesmo reescrever o programa inteiro. Em 1991, a Sun Microsystems financiou um projeto de pesquisa interno, resultando em uma linguagem baseada em C++, criada por James Gosling foi inicialmente chamada de Oak, em homagem a uma árvore de carvalho que ficava de frente à janela da sala em que ele trabalhava, mas após descrobri que ja existia uma linguagem com o mesmo nome, como a grande maioria das pessoas que integrava a equipe de pesquisa da Sun eram viciados em café, eles adotaram o nome o nome de uma cafeteria local chamada JAVA.
+
+Com o mercado ele^tronico para pessoas comuns não estava numa velocidade que a Sun esperava, o projeto começou a passar por dificuldades. Mas com a popularização da internet em 1993, a Sun viu um potencial utilizar Java para adicionar conteúdo dinãmico às páginas Web.
+
+Inicialmente java foi paresentado pela Sun em uma conferência em maio de 1995, teve uma atenção devido ao interesse enorme com relação a Web, mas Java é utilizado para desenvolver os mais diversos aplicativos corporativos de gande porte também é bastante utilizado para aprimorar a funcionalidade de servidores, para aplicações de dispositivos inteligentes entre muitos outros propósitos.
+
