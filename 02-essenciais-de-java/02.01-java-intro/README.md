@@ -164,3 +164,9 @@ Java Platform Standard Edition, é uma plataforma de desenvolvimento de programa
 Java Platform Enterprise Edition, plataforma focada em programas de grande porte, como sistemas distribuídos, banco de dados. Essa plataforma oferece um conjunto bibliotecas e um ambiente de tempo de execução para o desenvolvimento de software corporativos. Estende as características da plataforma Java SE baseando-se em módulos rodando em servidores.
 
 Quando desenvolvendo com Java EE, é seguido determinadas regras para as aplicações serem compatíveis com Java SE. Por isso, a plataforma também é considerada um padrão de desenvolvimento. Essa características fazem com que a plataforma EE, seja bastante utilizada para desenvolvimento de aplicações corporativas e de grande porte.
+
+# Jakarta EE, o primo do Java EE
+
+Com o crescimento da computação em nuvem, Oracle reduziu os investimentos no Java EE, ocasionando em uma preocupação nas empresas com participação direta nos projetos Java EE. Vendo outras linguagens evoluindo, e Java EE se tornando obsoleto. Com havia muito dinheiro investido no Java EE, depois de muitas reuniões Oracle resolveu doar os direitos da especificações Java EE à Eclipse Foundation, em setembro de 2017. Ainda mantendo seus direitos sobre o nome Java EE, por isso a Eclipse Foundation passou a usar o nome Jakarta EE.
+
+Sua principal objetivo é manter o Java atualizado com relação as tendências e demandas do mercado, e evitar que processos longos e burocráticos tomem muito tempo, atrasando o lançamento de atualizações, algo que sob o comando da Oracle acontecia. Mesmo sem ser responsável direto do Java EE, Oracle participava ativamente no Jakarta EE.
