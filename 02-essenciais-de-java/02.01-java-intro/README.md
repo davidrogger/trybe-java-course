@@ -80,9 +80,17 @@ Seguindo os mesmos passos anteriores buscando por EGit.
 
 # Nota Adicional durante a execução do Eclipse
 
-Por estar usando o WSL2 foi apontado um erro com relação ao swt gtk 4, realizando a instalação os erros pararam
+Por estar usando o WSL2 foi apontado um erro com relação ao swt gtk 4, realizando a instalação do libswt gtk os erros pararam:
 
 ```
 sudo apt update
 sudo apt install libswt-gtk-4-jni
 ```
+
+# Criando um "Hello World"
+
+1. Acessando no eclipse na opção `File`, `new` e `project`;
+2. Escolhendo o tipo do projeto como `Java Project`;
+3. Definir um nome para o projeto. Por padrão é criado no diretório de trabalho. É possivel alterar o local.
+4. Essa janela pode-se apenas avançar, e finalizar, definindo para abrir em modo perspective.
+
