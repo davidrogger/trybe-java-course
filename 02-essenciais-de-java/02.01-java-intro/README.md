@@ -128,3 +128,7 @@ Com o mercado ele^tronico para pessoas comuns não estava numa velocidade que a 
 
 Inicialmente java foi paresentado pela Sun em uma conferência em maio de 1995, teve uma atenção devido ao interesse enorme com relação a Web, mas Java é utilizado para desenvolver os mais diversos aplicativos corporativos de gande porte também é bastante utilizado para aprimorar a funcionalidade de servidores, para aplicações de dispositivos inteligentes entre muitos outros propósitos.
 
+# Novos donos do Java
+
+Sun começou a passar por dificuldades, então a Oracle ofereceu 7.4 bilhões de dólares pela sua aquisição em abril de 2009. oracle considerou Java o software mais importante que ela adquiriu.
+Oracle Corporation é uma multinacional no ramo de tecnologia. Suas especialidades são desenvolvimento e distribuição de soluções de banco de dados, sistemas em nuvem e de softwares corporativos. Possuindo mais de 400 mil clientes em mais de 145 países, sendo parte do grupo de gigantes, mundialmente.
