@@ -94,3 +94,10 @@ sudo apt install libswt-gtk-4-jni
 3. Definir um nome para o projeto. Por padrão é criado no diretório de trabalho. É possivel alterar o local.
 4. Essa janela pode-se apenas avançar, e finalizar, definindo para abrir em modo perspective.
 
+Agora observando ao clicar no canto esquerdo, nota-se uma janela com dois quadrados, ao passar o mouse é indicado como restore, ao clicar nele, a aba com o nome do projeto é apresentada com a área de trabalho do projeto.
+
+Acessando o nome do projeto, no diretório SRC, é necessário criar um pacote.
+
+1. Clicando com o botão direito, indo em new e package.
+2. Será solicitado um nome para o pacote.
+3. O nome do package pode ser o nome que desejar, desde que seja em letra minuscula, e seu espaçamento seja realizado com o ponto ".".
