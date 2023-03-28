@@ -132,3 +132,25 @@ Inicialmente java foi paresentado pela Sun em uma conferência em maio de 1995, 
 
 Sun começou a passar por dificuldades, então a Oracle ofereceu 7.4 bilhões de dólares pela sua aquisição em abril de 2009. oracle considerou Java o software mais importante que ela adquiriu.
 Oracle Corporation é uma multinacional no ramo de tecnologia. Suas especialidades são desenvolvimento e distribuição de soluções de banco de dados, sistemas em nuvem e de softwares corporativos. Possuindo mais de 400 mil clientes em mais de 145 países, sendo parte do grupo de gigantes, mundialmente.
+
+# Runtime
+
+Um conceito usado principalmente no desenvolvimento de software para descrever o período de tempo durante o qual um programa está sendo executado. O tempo de execução é a fase final do ciclo de vida do programa em que a máquina executa o código do programa.
+
+# Ambiente de tempo de execução
+
+Está relacionado à infraestrutura de hardware e software que suporta a execução de um programa. Especialistas no assunto consideram o ambiente de tempo de execução importante para descrobrir quais as condições mínimas necessárias de hardware e software ara poder rodar o programa em desenvolvimento. O ambiente deve prover corretamente os recursos necessários para o programa poder ser executado.
+Executando um programa, o sistema operacional carrega na memória principal (RAM) as bibliotecas necessárias para rodar as aplicações Java, fazendo o ambiente de tempo pronto para rodar o programa e gerar saídas.
+
+As bibliotecas Java são utilizadas para a comunicação com o sistema operacional. Por exemplo, quando estamos desenvolvendo um programa em java e precisamos ler um arquivo, fazemos uso de uma biblioteca Java responsável por requisitar a abertura do arquivo para o sistema operacional. Toda a comunicação entre o Java e o sistema operacional fica transparente para os desenvolvedores, isso acelera o progresso de desenvolvimento.
+
+# Plataforma de desenvolvimento
+
+É um conjunto de ferramentas e bibliotecas de programação que pode ser usado para acelerar o desenvolvimento de novas aplicações. Essa plataforma define o ambiente operacional, arquitetura em alto nível de todas as aplicações desenvolvidas o SDK é um kit de desenvolvimento (Software Development Kit), um grupo de ferramentas e bibiliotecas oferecidas pelos fabricantes de hardware/software.
+
+JDk proprociona um conjunto de utilitários que permitem criar sistemas de software para a plataforma Java e é composto por compilador e bibliotecas. Java além de linguagem também é uma plataforma de desenvolvimento. Sua grande vantagem é não estar presa a um único sistema operacional ou hardware.
+
+Sua plataforma é formada por um grande conjunto de componentes tecnológicos, cada um responsavel pro prover uma porção do ambiente de desenvolvimento e execução de software. Quando executamos um programa em Java, normalmente nós interagimos com a máquina virtual Java (Java Virtual Machine, ou JVM) e um conjunto padrão de bibliotecas padrão do Java. Fazendo a interação ser mais harmoniosa com o sistema operacional. Um exemplo, quando escrevemos uma aplicação em Java que abre um determinado arquivo: para abrir esse arquivo, bibliotecas padrão do java são utilizadas.
+
+JVM é uma máquina virtual para executar programas escritos em Java. O compilador do Java (JAVAC) transforma o código que escrevemos em ByteCode, que é um código específico que será interpretado pela JVM e, por isso, java é portátil, dado que cada sistema operacional e cada hardware precisa somente instalar sua JVM específica, e ela se encarrega de traduzir o Bytecode para a linguagem de máquina.
+Por causa do JVM o código só complica o programa uma vez, e JVM se encarrega de fazer com que ele execute nos mais diversos sistemas operacionais.
