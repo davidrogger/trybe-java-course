@@ -98,6 +98,24 @@ Agora observando ao clicar no canto esquerdo, nota-se uma janela com dois quadra
 
 Acessando o nome do projeto, no diretório SRC, é necessário criar um pacote.
 
-1. Clicando com o botão direito, indo em new e package.
+1. Clicando com o botão direito, acessando new e package.
 2. Será solicitado um nome para o pacote.
 3. O nome do package pode ser o nome que desejar, desde que seja em letra minuscula, e seu espaçamento seja realizado com o ponto ".".
+
+## Criando uma classe no pacote
+
+Clicando com o botão direito no pacote criado, acessando new e class, é solicitado necessário definir as configurações iniciais da classe.
+
+agora no pacote trybe.main, criando uma class chamada "HelloWorld", onde o method main, apenas escreve no console "Hello World".
+
+```
+package trybe.main
+
+public class HelloWorld {
+  
+  public static void main(string[] args) {
+    System.out.println("Hello World");
+  }
+
+}
+```
