@@ -159,3 +159,8 @@ Por causa do JVM o código só complica o programa uma vez, e JVM se encarrega d
 
 Java Platform Standard Edition, é uma plataforma de desenvolvimento de programas Java. Usado para projetos menores de desktop ou Web. Possui o ambiente necessário para o desenvolvimento e execução de aplicações Java, o que inclui máquina Virtual Java, compilador, bibliotecas e outras ferramentas utilitárias.
 
+# Java EE
+
+Java Platform Enterprise Edition, plataforma focada em programas de grande porte, como sistemas distribuídos, banco de dados. Essa plataforma oferece um conjunto bibliotecas e um ambiente de tempo de execução para o desenvolvimento de software corporativos. Estende as características da plataforma Java SE baseando-se em módulos rodando em servidores.
+
+Quando desenvolvendo com Java EE, é seguido determinadas regras para as aplicações serem compatíveis com Java SE. Por isso, a plataforma também é considerada um padrão de desenvolvimento. Essa características fazem com que a plataforma EE, seja bastante utilizada para desenvolvimento de aplicações corporativas e de grande porte.
