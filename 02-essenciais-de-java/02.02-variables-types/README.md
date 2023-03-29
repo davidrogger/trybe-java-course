@@ -34,3 +34,61 @@ Os tipos primitivos tem um valor padrão de inicialização, ocupando um espaço
 
 Muito usados para armazenamento de valores temporários e execução de algoritmos. Para garantir que o os algoritmos criados tenha uma alta performance foi definido essas limitações núméricas.
 
+O `byte` é o tipo de menor unidade para armazenamento dos inteiros, considerando que 1 byte é composto por 8 bits.
+
+```
+public class TiposPrimitivos {
+
+    public static void main(String[] args) {
+        byte b = 9;
+        System.out.println(b);  
+    }
+}
+```
+
+O `short` tem um range maior(conforme a tabela) e são usados quando é criado algum algoritmo com uma interação de valores numéricos não muito grandes.
+
+```
+public class TiposPrimitivos {
+
+    public static void main(String[] args) {
+        short num = 300;
+        short formatadaComUnderscore = 20_000; // variável 
+        System.out.println(num);
+        System.out.println(formatadaComUnderscore); // 20000
+    }
+}
+```
+
+Números podem conter símbolos `_` (underscore) para facilitar a leitura. (1_000_000).
+
+O `int` possui um range conforme a tabela, sendo tipos inteiros usados para resolver problemas com algoritmos simples.
+
+```
+public class TiposPrimitivos {
+
+    public static void main(String[] args) {
+        int numeroInteiro = 10;
+        int a = 10, b = 20, soma; // inicialização de variáveis inline
+        soma = a + b; // atribuição da soma da variável a + b para a variável soma
+        System.out.println(numeroInteiro); // 10
+        System.out.println(soma); // 30
+    }
+}
+```
+
+O `long` tem um range conforme a tabela, sendo o tip que armazena a maior quantidade de números inteiros.
+
+```
+public class TiposPrimitivos {
+
+    public static void main(String[] args) {
+        long numA = 102040;
+        long numB = 102030405060L; // adicionado L no final para indicar que estamos inserindo um valor do tipo long
+        System.out.println(numA);
+        System.out.println(numB);
+    }
+}
+```
+
+Usando o L ao final do valor, indica ao java que está sendo usado um número grande, deixando mais explicito.
