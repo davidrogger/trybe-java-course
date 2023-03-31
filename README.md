@@ -9,8 +9,8 @@ Repositório para anotações do curso de aceleração aprendendo java.
 
 ##### Seção 02: Essenciais de Java
 
-- [ ] - _Java - o que é, de onde veio e para onde vai? Hoje, logo adiante!_
-- [ ] - _Variáveis e seus tipos_
+- [x] - _Java - o que é, de onde veio e para onde vai? Hoje, logo adiante!_
+- [x] - _Variáveis e seus tipos_
 - [ ] - _Estruturas condicionais e de repetição_
 - [ ] - _Finalmente, o "Hello, world!" em Java!_
 - [ ] - _[Desafio agregador]()_
